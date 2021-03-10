@@ -2,7 +2,7 @@
 
 Basic Worker Service
 
-It checks the status of the websites in every 3 seconds and logs into a .txt file to path which we defined before.
+It checks the status of the website in every 3 seconds and logs into a .txt file to path which we defined before.
 
 
 ![wsc](https://user-images.githubusercontent.com/71450016/110614392-57587780-81a3-11eb-9507-cfc75a70997a.png)
