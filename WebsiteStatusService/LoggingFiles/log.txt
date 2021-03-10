@@ -1,0 +1,19 @@
+2021-03-10 13:05:23.229 +03:00 [INF] Starting up the service
+2021-03-10 13:05:25.473 +03:00 [INF] The Web site is up :) Status Code "OK"
+2021-03-10 13:05:28.758 +03:00 [INF] The Web site is up :) Status Code "OK"
+2021-03-10 13:05:32.149 +03:00 [INF] The Web site is up :) Status Code "OK"
+2021-03-10 13:05:35.447 +03:00 [INF] The Web site is up :) Status Code "OK"
+2021-03-10 13:05:38.641 +03:00 [INF] The Web site is up :) Status Code "OK"
+2021-03-10 13:05:41.896 +03:00 [INF] The Web site is up :) Status Code "OK"
+2021-03-10 13:05:45.219 +03:00 [INF] The Web site is up :) Status Code "OK"
+2021-03-10 13:05:48.550 +03:00 [INF] The Web site is up :) Status Code "OK"
+2021-03-10 13:05:51.780 +03:00 [INF] The Web site is up :) Status Code "OK"
+2021-03-10 13:05:55.157 +03:00 [INF] The Web site is up :) Status Code "OK"
+2021-03-10 13:05:58.387 +03:00 [INF] The Web site is up :) Status Code "OK"
+2021-03-10 13:06:01.578 +03:00 [INF] The Web site is up :) Status Code "OK"
+2021-03-10 13:06:04.761 +03:00 [INF] The Web site is up :) Status Code "OK"
+2021-03-10 13:06:05.351 +03:00 [INF] The Service has been stopped...
+2021-03-10 13:06:05.411 +03:00 [ERR] BackgroundService failed
+System.Threading.Tasks.TaskCanceledException: A task was canceled.
+   at WebsiteStatusService.Worker.ExecuteAsync(CancellationToken stoppingToken) in C:\Users\erenn\source\repos\WebsiteStatusService\WebsiteStatusService\Worker.cs:line 58
+   at Microsoft.Extensions.Hosting.Internal.Host.HandleBackgroundException(BackgroundService backgroundService)
